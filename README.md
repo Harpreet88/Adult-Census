@@ -1,5 +1,5 @@
-Adult Census Dataset - Imputation Project
-
+<h1>Adult Census Dataset - Imputation Project
+</h1>
 📌 Project Overview
 
 This project explores different imputation techniques to handle missing data in the Adult Census dataset. The goal is to evaluate how various imputation methods impact data quality and predictive modeling performance.
